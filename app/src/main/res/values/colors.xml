@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorSplashBackground">#ff1e1e</color>
+    <color name="colorLoginBackground">#f6f6f9</color>
+    <color name="colorText">#000000</color>
+    <color name="colorSecondText">#77818d</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorBorderInputText">#c0ccda</color>
+    <color name="colorEyePassword">#8392a5</color>
+    <color name="black">#000000</color>
+    <color name="colorBackgroundSearch">#f2f4f8</color>
+</resources>

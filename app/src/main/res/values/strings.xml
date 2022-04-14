@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Food</string>
+    <string name="close">Close</string>
+    <string name="network_error">Make sure you have an active data connection</string>
+    <string name="invalid_email_password">Invalid username or password</string>
+    <string name="username_is_blank">Please enter your username</string>
+    <string name="password_is_blank">Please enter your password</string>
+    <string name="password_not_contain_space">Password must not contain space</string>
+    <string name="word_create_account"><u>Create Account</u></string>
+    <string name="word_don_t_have_an_account">Don\&apos;t have an account?</string>
+    <string name="word_let_s_eat_quality_food">Let’s eat\nQuality food</string>
+    <string name="word_search_restaurant">Search restaurant...</string>
+    <string name="word_miami">Miami</string>
+    <string name="word_home">Home</string>
+    <string name="word_search">Search</string>
+    <string name="word_favorites">Favorites</string>
+    <string name="word_profile">Profile</string>
+    <string name="word_see_all">See All</string>
+    <string name="word_login">Login</string>
+    <string name="word_message_login">Please login to your account to continue with LTG.</string>
+    <string name="word_email_address">Email Address</string>
+    <string name="word_password">Password</string>
+    <string name="word_forget_password">Forget Password?</string>
+    <string name="word_or">OR</string>
+    <string name="word_facebook">Facebook</string>
+    <string name="word_gmail">Gmail</string>
+</resources>

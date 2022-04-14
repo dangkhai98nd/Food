@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="category"
+            type="com.test.food.data.models.CategoryModel" />
+    </data>
+
+    <ImageView
+        app:srcId="@{category.imageId}"
+        android:scaleType="fitXY"
+        android:paddingHorizontal="8dp"
+        android:layout_width="@dimen/width_item_category"
+        android:layout_height="@dimen/height_item_category"/>
+</layout>
